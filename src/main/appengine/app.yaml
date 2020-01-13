@@ -1,0 +1,6 @@
+runtume: java
+env: flex
+
+handlers:
+  - url: /.*
+    script: this field is required, but ignored
